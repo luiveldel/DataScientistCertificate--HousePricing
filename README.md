@@ -14,6 +14,6 @@ You will need to present your findings in two formats:
 
 The data you will use for this analysis can be accessed here: `"rentals.csv"`
 
-#### We want to predict the 'price' with +25 error using the other features. Given the red, predict the blue:
+#### We want to predict the 'price' with +25 error using the other features.
 
 #### Our main GOAL: predict the price based on their characteristics. This a regression problem because we try to predict a continuous value instead of a binary one.
